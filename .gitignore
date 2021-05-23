@@ -1,0 +1,25 @@
+# Compiled source #
+###################
+*.exe
+
+# Packages #
+############
+*.7z
+*.rar
+*.tar
+*.zip
+
+# Folders #
+###########
+*.idea/
+*__pycache__
+*.ipynb_checkpoints
+
+# Files #
+#########
+.xlsx
+.xls
+.txt
+
+.json
+.tsv
