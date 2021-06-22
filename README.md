@@ -9,7 +9,7 @@ Modelo utilizando o Yahoo Finance (yfinance) para verificar a relação da séri
 
 
 
-# ValuationFundoImobiliario
+# Modelo de Gordon - Fundo de Investimento Imobiliário
 Modelo de valuation de Fundos Imobiliários apresentado pelo time da Suno Research
 
 Para este programa, é utilizado o Modelo de Gordon, o qual considera os fluxos futuros de maneira estável (semelhante a uma empresa de dividendos).
